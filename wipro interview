@@ -1,0 +1,47 @@
+1. Strings and Arrays
+Key Concepts to Review:
+
+String manipulation: reversing a string, finding substrings, replacing characters.
+
+Array operations: traversing, sorting, searching, merging.
+
+Common problems: Palindrome, anagrams, finding duplicates in an array, etc.
+
+Practice Problems:
+
+Write a function to check if a string is a palindrome.
+
+Implement a function to find the maximum sum subarray.
+
+Write a function to remove duplicates from a sorted array.
+
+2. Object-Oriented Programming (OOP)
+Key Concepts to Review:
+
+Classes and Objects: understand how to define and instantiate them.
+
+Inheritance: know how to use base and derived classes.
+
+Polymorphism: method overloading and overriding.
+
+Encapsulation and Abstraction: understand access modifiers and abstract classes/interfaces.
+
+Practice Problems:
+
+Create a simple class to represent a Book with properties like title, author, and ISBN.
+
+Implement a class hierarchy to represent different types of employees (e.g., Full-time, Part-time, Intern).
+
+Design a class for a Bank Account with methods for deposit, withdrawal, and checking the balance.
+
+Daily Study Schedule
+Here's a sample daily schedule to cover these topics over the next week:
+
+Day	Topic	Activity
+Day 1	Strings	Review concepts, practice basic string problems
+Day 2	Arrays	Review concepts, practice array manipulation problems
+Day 3	OOP - Classes & Objects	Review basics, implement simple classes
+Day 4	Strings & Arrays	Mixed practice problems
+Day 5	OOP - Inheritance & Polymorphism	Review concepts, implement example programs
+Day 6	Mock Coding Challenge	Solve a coding challenge involving strings/arrays
+Day 7	Revision & Mock Interviews	Review all topics, simulate a mock interview
