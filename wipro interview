@@ -45,3 +45,39 @@ Day 4	Strings & Arrays	Mixed practice problems
 Day 5	OOP - Inheritance & Polymorphism	Review concepts, implement example programs
 Day 6	Mock Coding Challenge	Solve a coding challenge involving strings/arrays
 Day 7	Revision & Mock Interviews	Review all topics, simulate a mock interview
+
+
+
+Key SQL Concepts to Review
+Basic Queries: SELECT, INSERT, UPDATE, DELETE
+
+Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN
+
+Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
+
+Subqueries: Nested queries to retrieve data
+
+Indexes: Understanding how indexes can improve query performance
+
+Normalization: Principles of database normalization to design efficient databases
+
+Practice Problems
+Retrieve data based on specific conditions
+
+Join multiple tables to get combined results
+
+Calculate aggregate values from data
+
+Use subqueries to filter or transform data
+
+Daily Study Schedule
+Here's a sample schedule to help you balance SQL practice with your other preparation:
+
+Day	Topic	Activity
+Day 1	Basic Queries	Review concepts, practice simple queries
+Day 2	Joins	Practice join operations
+Day 3	Aggregate Functions	Solve problems using aggregate functions
+Day 4	Subqueries	Practice writing and using subqueries
+Day 5	Indexes & Performance	Understand indexes, practice performance
+Day 6	Mock SQL Challenge	Solve a comprehensive SQL challenge
+Day 7	Revision & Mock Interviews	Review all topics, simulate a mock interview
